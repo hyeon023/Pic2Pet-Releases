@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "channel": "beta",
+  "preparedAt": "2026-09-11T00:00:00.000+09:00",
+  "releases": {
+    "macIntel": {
+      "filename": "Pic2Pet_0.1.0_macOS_x64.zip",
+      "url": "https://github.com/hyeon023/Pic2Pet-Releases/releases/download/v0.1.0-beta/Pic2Pet_0.1.0_macOS_x64.zip",
+      "bytes": 8347683,
+      "sha256": "3b969de4906ed937ccdaca59f1c642f25eb66376685b3dc9149be05786029ac6"
+    },
+    "macApple": {
+      "filename": "Pic2Pet_0.1.0_macOS_arm64.zip",
+      "url": "https://github.com/hyeon023/Pic2Pet-Releases/releases/download/v0.1.0-beta/Pic2Pet_0.1.0_macOS_arm64.zip",
+      "bytes": 8222876,
+      "sha256": "5b9f765c16aa866b4712637c9f260325a3ece5d97a1470d2470c03f4475da124"
+    },
+    "windows": {
+      "filename": "Pic2Pet_0.1.0_Windows_x64-setup.exe",
+      "url": "https://github.com/hyeon023/Pic2Pet-Releases/releases/download/v0.1.0-beta/Pic2Pet_0.1.0_Windows_x64-setup.exe",
+      "bytes": 5829333,
+      "sha256": "618498dc3945a4b45b6ad9029c73788246d299575b72ef8627e9ea35ab3032aa"
+    }
+  }
+}

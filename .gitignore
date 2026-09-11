@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+*.tmp
+
+# Local staging area for files that will be uploaded to GitHub Releases.
+downloads/
