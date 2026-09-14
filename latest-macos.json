@@ -1,14 +1,14 @@
 {
   "version": "0.1.7",
   "notes": "Pic2Pet macOS 0.1.7 업데이트",
-  "pub_date": "2026-09-14T06:15:30.331Z",
+  "pub_date": "2026-09-14T06:25:50.843Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnUzZ3NpTmZhK04zTmVXOUl5cU9OcTlYcnA0aFd1Q1ZQZVNycWwrMFRnY3B5VVVWd3lYN00rU3ZBdjU5WGtHTVRwY0d0OHVFYWJ2R0hBR0F3Y1hLOEM5cy9YQmVnVHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzY2MTIyCWZpbGU6UGljMlBldC5hcHAudGFyLmd6CmtpM2kwbitRUmxCbDJLZmRoRStNR1h6SEpqUjROOFdLSVQrREdaODJQcjQ2b3VubjBWRTJXUjVyYk9vZWNPZE12dVQ5VWZERUZDK0MybE9ncHNxQUFBPT0K",
       "url": "https://github.com/hyeon023/Pic2Pet-Releases/releases/download/macos-v0.1.7/Pic2Pet.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnUzZ3NpTmZhK0VpSUg1NEpvWCtsK1c2ZTRDNjV3c3VSdSs2cEZmUXhTUVRyMTZQOFBqWVVGWjhTRndTdVU0bllUby90eHEzWm5Pc0YzM3ZldXg0NW42ZWZwT2pEL3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzY2NTI1CWZpbGU6UGljMlBldC5hcHAudGFyLmd6Ckc2UG1SUzhHSjJLWkw0TktMc1NCRXBvaFZneDlWektMMDJsZFZjbDNlWGJWV2hGQWRKMWllcmVNbWw1Q3EvVVNTR3JJTUd4d29QTXVsTW83NW5EQUR3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnUzZ3NpTmZhK0praC8vT0ViUkIwenJseFdOSU4zWmZpdmNsVXhjZHRObW1INXl4RHYzY3NzNDhaOUdmMGRqSXpqSG9lZ2dEdmZwbVhkUGJxMjJUVHFMdEI4TVpCYmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzY3MTQ2CWZpbGU6UGljMlBldC5hcHAudGFyLmd6CjhEQkxwalQwSDhTR3loQXh5YWt2TGhxQkIzU09KbFZSWjhOa3NlcmlOMmVZTXdLYUVjMjZobHh4bkhZcXcwTHZNVHZqbU14dndEZDJLYUN0UEJobkRRPT0K",
       "url": "https://github.com/hyeon023/Pic2Pet-Releases/releases/download/v0.1.7/Pic2Pet.app.tar.gz"
     }
   }
