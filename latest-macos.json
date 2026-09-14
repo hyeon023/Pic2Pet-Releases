@@ -1,0 +1,11 @@
+{
+  "version": "0.1.7",
+  "notes": "Pic2Pet macOS 0.1.7 업데이트",
+  "pub_date": "2026-09-14T06:08:47.164Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnUzZ3NpTmZhK04zTmVXOUl5cU9OcTlYcnA0aFd1Q1ZQZVNycWwrMFRnY3B5VVVWd3lYN00rU3ZBdjU5WGtHTVRwY0d0OHVFYWJ2R0hBR0F3Y1hLOEM5cy9YQmVnVHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzY2MTIyCWZpbGU6UGljMlBldC5hcHAudGFyLmd6CmtpM2kwbitRUmxCbDJLZmRoRStNR1h6SEpqUjROOFdLSVQrREdaODJQcjQ2b3VubjBWRTJXUjVyYk9vZWNPZE12dVQ5VWZERUZDK0MybE9ncHNxQUFBPT0K",
+      "url": "https://github.com/hyeon023/Pic2Pet-Releases/releases/download/macos-v0.1.7/Pic2Pet.app.tar.gz"
+    }
+  }
+}
