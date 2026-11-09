@@ -1,15 +1,15 @@
 {
-  "version": "0.1.8",
-  "notes": "Pic2Pet macOS 0.1.8 업데이트",
-  "pub_date": "2026-09-20T10:59:51.018Z",
+  "version": "0.1.9",
+  "notes": "Pic2Pet macOS 0.1.9 업데이트",
+  "pub_date": "2026-11-09T10:50:13.237Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnUzZ3NpTmZhK0xicHpMbUcvV3RyYWNOQ295UU5RL0dJNnpKc1gwQ3BJL3ppSEE2cVlxK2xia3JOR0tDaFM4MzFiamJhdU1ueGZtWmFLMkFadTNWaVM1NnYxcTF4WndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTAxODk0CWZpbGU6UGljMlBldC5hcHAudGFyLmd6CkM2VVBNS1oxVXBXbXlLZEZmQ3psNy96ZnRsQmtSYXZMeUN2L2Ntd0FkM3NRZmZnNy9pVDVrZEFlTTNIbUs5bVRxU2tvVzIxVHh3ZE8vSmpLenpndEFnPT0K",
-      "url": "https://github.com/hyeon023/Pic2Pet-Releases/releases/download/macos-v0.1.8/Pic2Pet_0.1.8_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnUzZ3NpTmZhK0VqUTdOdWJpOGpXRFJSeVFXVFV3aHhZaENhODI4MHBubXZmenlGSTVjR0V3M2dnT0hpd0dFOGpia29mMHBRcGltemV1SUFIRTNPL2FDZXpFZXFTT0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIxMzkxCWZpbGU6UGljMlBldC5hcHAudGFyLmd6CjJ4TXZZaDNMSlZhbUdHR1VCcHJTRU1sdldSNGpKdm1ncUZQREpmSjlVUTUzNDNwcy9BSWdtdVR6Wll6Y1dBbm5DalVBTmJUWlI2ZGRRc1lLVDR3bkJBPT0K",
+      "url": "https://github.com/hyeon023/Pic2Pet-Releases/releases/download/macos-v0.1.9/Pic2Pet_0.1.9_x64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnUzZ3NpTmZhK0thZFpTcFZ0bUpMaTRIV0doL0YzYTVEcWhmWm9tSXZVaVoraGw5MTVxcW5wckRoYmVwamZFdnE2UHhjYlNHOGg5UnNOakUrZVdIU0RlTG9ncExaTUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTAxOTkwCWZpbGU6UGljMlBldC5hcHAudGFyLmd6CjBxeVNoUlY1WFBUMEduUUtyTTB1dVBWZThYa2RBa3NWYXZnSWVYZE84Rnp0UmhJdDMvc054ZmNia0dMY3lvbWU1U1l3YkFnb3YrbXFZdWtMVkNEM0FBPT0K",
-      "url": "https://github.com/hyeon023/Pic2Pet-Releases/releases/download/macos-v0.1.8/Pic2Pet_0.1.8_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnUzZ3NpTmZhK09rWUI0Y1RHeDBjTE43TE4rM0p5OXFQdm1XSjNjb3kvN0JKcUxJR1VCN00xdEZQTTJKM3pKTUxvLzdGYi9ESDUralRWSmxYUVNLQWFTUEpJTnV0OUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIxMzE1CWZpbGU6UGljMlBldC5hcHAudGFyLmd6CmdkL3dydmgzSU5SYTVNdm40NE1OQXhZNk55ZU5Td2t2UW5EcVNoR1BGNE9pWWZubWRaTW13UnZleFRNazhEN3phZUNSOFh6eVRMMjJ1RDZSNHppL0RRPT0K",
+      "url": "https://github.com/hyeon023/Pic2Pet-Releases/releases/download/macos-v0.1.9/Pic2Pet_0.1.9_aarch64.app.tar.gz"
     }
   }
 }
